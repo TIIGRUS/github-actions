@@ -7,6 +7,6 @@ jobs:
       - name: Print to console
         run: echo Hellow Github Actions!
       - name: Print a few Lines
-        run:  |
+        run: |
           echo It's a first Line
           echo But this is a Second Line
