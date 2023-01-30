@@ -9,4 +9,4 @@ jobs:
       - name: Print a few Lines
         run:  |
           echo It's a first Line
-          echo But this is a Second Line      
+          echo But this is a Second Line
