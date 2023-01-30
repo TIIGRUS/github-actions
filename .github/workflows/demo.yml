@@ -10,5 +10,5 @@ jobs:
         run: |
           echo It's a first Line
           echo But this is a Second Line
-          echo Please stopped that!!! 
+          echo Please stopped that!!
           
